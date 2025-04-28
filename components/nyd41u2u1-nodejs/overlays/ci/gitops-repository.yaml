@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nyd41u2u1-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nyd41u2u1-nodejs-gitops
